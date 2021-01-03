@@ -8,19 +8,23 @@ https://dotnet.microsoft.com/languages
 * [**F#**](https://dotnet.microsoft.com/languages/fsharp) - F# (pronounced "F sharp") is a cross-platform, open-source, functional programming language for .NET. It also includes object-oriented and imperative programming.
 * [**Visual Basic**](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Visual Basic is an approachable language with a simple syntax for building type-safe, object-oriented apps.
 
-## Other Languages
+## Other languages compiling to .NET IL
 
 * [**IronPython**](https://ironpython.net) - IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython is a member of the .NET Foundation.
-* [**NLua**](http://nlua.org) - Bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS)
 
-## Scripting
+** Bridges and Bindings
+
+* [**NLua**](http://nlua.org) - Bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS)
+* [**JNBridgePro**](https://jnbridge.com/software/jnbridgepro/overview) - Connect anything Java together with anything .NET. Reuse your existing C#, VB or Java code, and run your applications anywhere. (Commercial)
+
+## Scripting Languages
 
 * [**ClearScript**](https://github.com/Microsoft/ClearScript) - ClearScript is a library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 * [**CS-Script**](https://github.com/oleg-shilo/cs-script) - CS-Script is a CLR based scripting system which uses ECMA-compliant C# as a programming language.  .NET 5 support in preview. Plan for release in 2021.
 * [**Jint**](https://github.com/sebastienros/jint) - Jint is a Javascript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 * [**PowerShell**](https://docs.microsoft.com/en-us/powershell/scripting/overview) - PowerShell is a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language.
 
-## Cross Compiling
+## Cross compiling .NET IL to another target
 
 * [**WebAssembly**](https://docs.wasmtime.dev/lang-dotnet.html)
 A standalone runtime for WebAssembly supporting .NET Core 3.0 and later.
