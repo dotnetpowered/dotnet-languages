@@ -12,7 +12,7 @@ https://dotnet.microsoft.com/languages
 
 * [**IronPython**](https://ironpython.net) - IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython is a member of the .NET Foundation.
 
-** Bridges and Bindings
+## Bridges and Bindings
 
 * [**NLua**](http://nlua.org) - Bridge between Lua world and the .NET (compatible with .NET Core/UWP/Mac/Linux/Android/iOS/tvOS)
 * [**JNBridgePro**](https://jnbridge.com/software/jnbridgepro/overview) - Connect anything Java together with anything .NET. Reuse your existing C#, VB or Java code, and run your applications anywhere. (Commercial)
